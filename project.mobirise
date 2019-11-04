@@ -58,10 +58,13 @@
     "favicon": "@PROJECT_PATH@/assets/images/md-sem-fundo-so-quadrado-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
-    "siteUrl": "undefined",
+    "siteUrl": "",
     "uniqCompNum": 22,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": ""
   },
   "pages": {
     "index.html": {
