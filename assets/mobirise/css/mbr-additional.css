@@ -1807,82 +1807,18 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rGjlao0qWf {
-  background-image: url("../../../assets/images/capa1231312123123-1-1920x650.png");
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/capa-site-marques-1280x577.png");
 }
 .cid-rGkmw8DfRF {
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/171187-tarefa-para-1902-ate-18h-post-3000-tudo-que-voce-precisa-saber-sobre-as-x-melhores-areas-do-direito-600x400.jpg");
-}
-.cid-rGkfBqmlLy {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/171187-tarefa-para-1902-ate-18h-post-3000-tudo-que-voce-precisa-saber-sobre-as-x-melhores-areas-do-direito-600x400.jpg");
-}
-.cid-rGkfBqmlLy h2 {
-  text-align: left;
-}
-.cid-rGkfBqmlLy h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rGkfBqmlLy p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rGkfBqmlLy .aside-content {
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rGkfBqmlLy .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-rGkfBqmlLy .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rGkfBqmlLy .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-rGkfBqmlLy .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-rGkfBqmlLy .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-rGkfBqmlLy .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rGkfBqmlLy .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-rGkfBqmlLy .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-rGkfBqmlLy .mbr-text {
-  color: #232323;
-}
-.cid-rGkfBqmlLy P {
-  color: #efefef;
 }
 .cid-rGnVCwDYVn {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rGnVCwDYVn h4 {
@@ -1898,7 +1834,7 @@ body {
 .cid-rGnVCwDYVn .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #a7002a;
+  background-color: #9f0029;
 }
 .cid-rGnVCwDYVn .card-img span {
   font-size: 100px;
@@ -1906,8 +1842,8 @@ body {
 }
 .cid-rGnVCwDYVn .card-box {
   padding-bottom: 2rem;
-  background-color: #a7002a;
-  background: linear-gradient(#a7002a, transparent);
+  background-color: #9f0029;
+  background: linear-gradient(#9f0029, transparent);
 }
 .cid-rGnVCwDYVn .card-box .card-title {
   margin: 0;
