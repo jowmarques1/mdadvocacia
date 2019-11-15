@@ -1801,8 +1801,31 @@ body {
 .cid-rHPg64IxkP .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rGjlao0qWf {
-  background-image: url("../../../assets/images/capa-site-2-1280x960.png");
+.cid-rHU64p0Z3I {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/1-1280x960.jpg");
+}
+.cid-rHU64p0Z3I .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rHU64p0Z3I .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rHU64p0Z3I .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rHU64p0Z3I .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rHPTz32sNJ {
   padding-top: 90px;
